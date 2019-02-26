@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite id="0" name="/data/projects/challenge/challenge/react--birthday-records-bd0c718iot3/src/tests/App.test.js" errors="0" package="/data/projects/challenge/challenge/react--birthday-records-bd0c718iot3/src/tests/App.test.js" hostname="localhost" tests="5" failures="0" time="9.754" timestamp="2019-02-26T23:43:25">
+    <properties>
+    </properties>
+    <testcase classname="BirthdayRecords &lt;App/&gt;" name="complete app renders without crashing" time="0">
+    </testcase>
+    <testcase classname="BirthdayRecords &lt;App/&gt;" name="check default/initial state of the application" time="0">
+    </testcase>
+    <testcase classname="BirthdayRecords &lt;App/&gt;" name="check filter by age" time="0">
+    </testcase>
+    <testcase classname="BirthdayRecords &lt;App/&gt;" name="check filter by age and then filter by name" time="0">
+    </testcase>
+    <testcase classname="BirthdayRecords &lt;App/&gt;" name="check number of rows rendered" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+</testsuites>
